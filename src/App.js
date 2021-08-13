@@ -15,10 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Nicekkong's MyReact season12345
         </a>
       </header>
+      <br/>
+      <h1>NICEKKONG's World</h1>
     </div>
+    
   );
 }
 
